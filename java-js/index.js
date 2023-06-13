@@ -1,5 +1,5 @@
 // 1 - exibir nome da empresa
-console.log("**Omma - Receitas com afeto**");
+console.log("Omma - Receitas com afeto");
 
 // variável com objeto que armazena os atributos no formato indice: valor
 // um objeto pode armazenar diferentes tipos de dados
@@ -7,7 +7,7 @@ let receita = {
   titulo: "Bolo de cenoura",
   nivelDificuldade: "fácil",
   listaIngredientes: ["cenoura", "farinha de trigo", "ovos", "leite"],
-  preparo: "mistura tudo e coloca numa forma untada pra assar a 200C",
+  preparo: "mistura tudo e coloca numa forma untada pra assar a 200°C",
   linkVideo: "http://youtube.com",
   vegana: false,
 };
